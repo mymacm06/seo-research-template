@@ -31,11 +31,11 @@ MAX_TOKENS = 8096
 # ---------------------------------------------------------------
 # CONFIGURE FOR YOUR SITE — fill in these values before running
 # ---------------------------------------------------------------
-SITE_URL        = "[SITE_URL]"           # e.g. "example.co.uk"
-BUSINESS_NAME   = "[BUSINESS_NAME]"      # e.g. "Acme Plumbing"
-NICHE           = "[NICHE]"              # e.g. "plumber"
-LOCATION        = "[LOCATION]"           # e.g. "Manchester"
-TARGET_AREAS    = "[TARGET_AREAS]"       # e.g. "Manchester, Salford, Stockport"
+SITE_URL        = "idrive-auto.co.uk"
+BUSINESS_NAME   = "iDrive Auto School of Motoring"
+NICHE           = "driving school / driving instructor"
+LOCATION        = "London, UK"
+TARGET_AREAS    = "Richmond, Twickenham, Barnes, Teddington, Surbiton, Brentford, Isleworth, Whitton, Hounslow, Hampton, Roehampton, Kew, Sheen, East Molesey, Chiswick"
 PRIMARY_KEYWORDS = "[PRIMARY_KEYWORDS]"  # e.g. '"plumber Manchester", "emergency plumber Manchester"'
 # ---------------------------------------------------------------
 

@@ -1,7 +1,7 @@
-# CLAUDE.md — [NICHE] SEO Research Tool
+# CLAUDE.md — driving school / driving instructor SEO Research Tool
 
 ## What This Project Does
-Fetches YouTube transcripts from top SEO educators, synthesises them via the Claude API, and produces a prioritised SEO checklist tailored to [SITE_URL].
+Fetches YouTube transcripts from top SEO educators, synthesises them via the Claude API, and produces a prioritised SEO checklist tailored to idrive-auto.co.uk.
 
 ---
 
@@ -64,12 +64,12 @@ Load the skill file. Follow it exactly. Do not improvise.
 
 ## About the Target Site
 
-- **URL:** [SITE_URL]
-- **Business:** [BUSINESS_NAME] — [NICHE]
-- **Primary location:** [LOCATION]
-- **Service areas:** [TARGET_AREAS]
-- **Tech stack:** [TECH_STACK]
-- **Goal:** Rank for "[NICHE] [LOCATION]" and related local queries
+- **URL:** idrive-auto.co.uk
+- **Business:** iDrive Auto School of Motoring — driving school / driving instructor
+- **Primary location:** London, UK
+- **Service areas:** Richmond, Twickenham, Barnes, Teddington, Surbiton, Brentford, Isleworth, Whitton, Hounslow, Hampton, Roehampton, Kew, Sheen, East Molesey, Chiswick
+- **Tech stack:** Next.js 15, Tailwind CSS v3, Vercel
+- **Goal:** Rank for "driving school London, UK" and related local queries
 
 ## SEO Already Done
 _(Fill this in as you work through the checklist)_
