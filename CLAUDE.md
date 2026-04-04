@@ -119,3 +119,12 @@ seo-research-template/
 ## Session Notes
 
 _(Append notes here after each session. Never delete previous entries.)_
+
+### 2026-04-05
+- Cloned seo-research-template into `/Users/sb/idrive-auto/idrive-seo/` alongside the website folder
+- Filled in constants in `scripts/generate_checklist.py`: SITE_URL, BUSINESS_NAME, NICHE, LOCATION, TARGET_AREAS (TECH_STACK not a constant in that file; PRIMARY_KEYWORDS left as placeholder)
+- Updated all placeholders in `CLAUDE.md` with iDrive Auto details
+- Fixed `.env` format issue (missing `=` sign) so python-dotenv could parse ANTHROPIC_API_KEY
+- Ran `generate_checklist.py` — loaded 156 tips from `outputs/raw_synthesis.md`, rewrote all 8 batches as site-specific actions, generated `outputs/seo_checklist.md`
+- Committed 3 files: `CLAUDE.md`, `scripts/generate_checklist.py`, `outputs/seo_checklist.md` (commit c7dbe09)
+- `.env` not committed — keep it off GitHub
