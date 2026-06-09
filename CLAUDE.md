@@ -173,3 +173,6 @@ _(Append notes here after each session. Never delete previous entries.)_
   - Opening hours confirmed on GBP — added matching openingHoursSpecification to homepage JSON-LD schema
   - GBP verification pending — video verification required (client to record tomorrow)
   - Social profiles not yet added to GBP — need Instagram/Facebook URLs from client
+- Phone number CTA added to all 15 location pages — "Call us on 07867 866868" after bullets in Section 2
+- Areas We Cover page created at /areas-we-cover — 15 location cards, linked from footer
+- /areas-we-cover added to sitemap.ts
