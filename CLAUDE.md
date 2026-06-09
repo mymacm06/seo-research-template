@@ -147,3 +147,13 @@ _(Append notes here after each session. Never delete previous entries.)_
   - Fixed 6 broken nearbyAreas links (Sunbury, Brentford x4, Putney → real area slugs)
   - Committed 905ffe2, pushed to GitHub
 - Google Maps embed: already present in MapEmbed.tsx, used on homepage and all 15 location pages — no code needed
+
+### 2026-06-09 (session 2)
+- Google Search Console: sitemap already submitted (Apr 6), showing Success, 24 pages discovered
+- Fixed www vs non-www redirect issue in Vercel:
+  - idrive-auto.co.uk set as Production (was redirecting to www)
+  - www.idrive-auto.co.uk set to 301 redirect to idrive-auto.co.uk
+- Updated Hostinger DNS records to Vercel's new IP range:
+  - A record @ updated from 76.76.21.21 → 216.198.79.1
+  - CNAME www updated from cname.vercel-dns.com → 02f8b283b5f88ba0.vercel-dns-017.com
+- ALIAS record @ was already set to 02f8b283b5f88ba0.vercel-dns-017.com
