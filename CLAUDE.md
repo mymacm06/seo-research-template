@@ -157,3 +157,10 @@ _(Append notes here after each session. Never delete previous entries.)_
   - A record @ updated from 76.76.21.21 → 216.198.79.1
   - CNAME www updated from cname.vercel-dns.com → 02f8b283b5f88ba0.vercel-dns-017.com
 - ALIAS record @ was already set to 02f8b283b5f88ba0.vercel-dns-017.com
+
+### 2026-06-10
+- NAP consistency fixes in Footer.tsx:
+  - Phone number display text: "07867 866 868" → "07867 866868" (matches tel: href format)
+  - Removed Brentford from Areas Covered list (no location page exists for it)
+  - Build: 31 pages, zero errors
+  - Committed dcf2cca, pushed to main
