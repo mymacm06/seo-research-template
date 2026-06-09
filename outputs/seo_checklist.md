@@ -65,7 +65,7 @@ _Generated from YouTube transcripts by SEO research tool. Tips sorted by frequen
   Use SEMrush or Ahrefs to identify the highest-authority pages on idrive-auto.co.uk — likely the homepage or a well-linked blog post — and add internal links from those pages directly to your most important commercial location pages such as /driving-lessons-richmond and /driving-instructor-twickenham.
 - [ ] **[technical]** `priority 8/10` _(mentioned in 1 source)_  
   Embed a Google Maps widget on the idrive-auto.co.uk homepage that displays the iDrive Auto School of Motoring Google Business Profile location, reinforcing NAP consistency between the site and GBP.
-- [ ] **[technical]** `priority 8/10` _(mentioned in 1 source)_  
+- [x] **[technical]** `priority 8/10` _(mentioned in 1 source)_  
   Add LocalBusiness (and DrivingSchool where applicable) schema markup to the idrive-auto.co.uk homepage, populating it with the business name 'iDrive Auto School of Motoring', London UK address, phone number, service areas (Richmond, Twickenham, Hounslow, etc.), and opening hours to match the GBP exactly.
 - [ ] **[technical]** `priority 8/10` _(mentioned in 1 source)_  
   When posting driving tip or lesson videos on YouTube and Instagram for iDrive Auto, structure captions with a keyword-rich headline (e.g., 'How to do a bay park | Driving Lessons Richmond London'), clear section breaks, and descriptive phrases so platform algorithms correctly categorise the content for learner drivers searching in London.
@@ -133,7 +133,7 @@ _Generated from YouTube transcripts by SEO research tool. Tips sorted by frequen
   Before making any on-site or Google Business Profile changes for iDrive Auto School of Motoring, capture a full benchmark report of current Google rankings for keywords like 'driving instructor Richmond' and 'driving school Twickenham' using Google Search Console and a rank tracker so improvements can be measured accurately.
 - [ ] `priority 8/10` _(mentioned in 1 source)_  
   Write a unique meta description for every page on idrive-auto.co.uk, including each location page (e.g., Richmond, Twickenham, Hounslow), focusing on compelling click-through copy like 'Book driving lessons in Richmond with a DVSA-approved instructor — flexible lesson times available' rather than generic or phone-number-stuffed descriptions.
-- [ ] `priority 8/10` _(mentioned in 1 source)_  
+- [x] `priority 8/10` _(mentioned in 1 source)_  
   Ensure every location and service page URL on idrive-auto.co.uk contains the exact target keyword phrase, for example /driving-lessons-richmond or /driving-instructor-twickenham, so Google can immediately parse page relevance from the URL alone.
 - [ ] `priority 8/10` (quick win) _(mentioned in 1 source)_  
   Build internal links between supporting blog posts (e.g. 'How to choose a driving instructor in London', 'Top tips for the Richmond driving test') so they mutually reinforce each other's relevance and strengthen the overall topical cluster around driving lessons in South West London.
@@ -141,7 +141,7 @@ _Generated from YouTube transcripts by SEO research tool. Tips sorted by frequen
   Use SEMrush or Ahrefs to identify the highest-authority pages on idrive-auto.co.uk — likely the homepage or a well-linked blog post — and add internal links from those pages directly to your most important commercial location pages such as /driving-lessons-richmond and /driving-instructor-twickenham.
 - [ ] `priority 8/10` (quick win) _(mentioned in 1 source)_  
   Embed a Google Maps widget on the idrive-auto.co.uk homepage that displays the iDrive Auto School of Motoring Google Business Profile location, reinforcing NAP consistency between the site and GBP.
-- [ ] `priority 8/10` (quick win) _(mentioned in 1 source)_  
+- [x] `priority 8/10` (quick win) _(mentioned in 1 source)_  
   Add LocalBusiness (and DrivingSchool where applicable) schema markup to the idrive-auto.co.uk homepage, populating it with the business name 'iDrive Auto School of Motoring', London UK address, phone number, service areas (Richmond, Twickenham, Hounslow, etc.), and opening hours to match the GBP exactly.
 - [ ] `priority 8/10` (quick win) _(mentioned in 1 source)_  
   When posting driving tip or lesson videos on YouTube and Instagram for iDrive Auto, structure captions with a keyword-rich headline (e.g., 'How to do a bay park | Driving Lessons Richmond London'), clear section breaks, and descriptive phrases so platform algorithms correctly categorise the content for learner drivers searching in London.
@@ -181,7 +181,7 @@ _Generated from YouTube transcripts by SEO research tool. Tips sorted by frequen
   Build a dedicated page on idrive-auto.co.uk for every service and category listed on your Google Business Profile — including pages for automatic driving lessons, manual driving lessons, intensive driving courses, Pass Plus, and motorway lessons — each targeting that service plus a specific location like Richmond or Twickenham.
 - [ ] `priority 10/10` _(mentioned in 1 source)_  
   Create a comprehensive, link-worthy guide on idrive-auto.co.uk such as 'The Complete Guide to Passing Your Driving Test in London' covering test centres in Richmond, Twickenham, and Chiswick, common test routes, and examiner tips — content local driving blogs and parenting sites will naturally link to.
-- [ ] `priority 10/10` _(mentioned in 1 source)_  
+- [x] `priority 10/10` _(mentioned in 1 source)_  
   Publish a FAQ page or blog post on idrive-auto.co.uk directly answering the top questions learner drivers in London search for, such as 'How many driving lessons do I need in London?', 'How much do driving lessons cost in Richmond?', and 'Which driving test centre is easiest in South West London?'
 - [ ] `priority 10/10` _(mentioned in 1 source)_  
   Build out a 'Core 30' page structure on idrive-auto.co.uk: one homepage, category pages for manual lessons, automatic lessons, and intensive courses, plus individual location pages targeting '[service] in [location]' for each of your 15 service areas including Richmond, Twickenham, Hounslow, Barnes, and Surbiton.
@@ -283,7 +283,7 @@ _Generated from YouTube transcripts by SEO research tool. Tips sorted by frequen
   Do not publish generic UK-wide blog posts such as 'How many lessons does it take to pass your driving test?' without local context; instead tie every post to a specific service area, for example 'How many driving lessons do learners in Richmond typically need before passing?'
 - [ ] `priority 7/10` _(mentioned in 1 source)_  
   Create a statistics-driven, locally-focused piece such as 'Driving Test Pass Rates at Chiswick, Twickenham, and Morden Test Centres in 2024' to attract backlinks from local news sites, parent forums, and community resources across iDrive Auto's service areas.
-- [ ] `priority 7/10` _(mentioned in 1 source)_  
+- [x] `priority 7/10` _(mentioned in 1 source)_  
   Rather than relying on weekly generic blog posts, prioritise building dedicated service-area pages for each of iDrive Auto's 15 locations (e.g. /driving-lessons-barnes/, /driving-lessons-isleworth/) that are directly tied to your Google Business Profile entity and include location-specific content.
 - [ ] `priority 7/10` _(mentioned in 1 source)_  
   When using AI to draft content for idrive-auto.co.uk location pages, write each H2 section with a separate prompt — for example, prompt one for 'Why choose iDrive Auto in Surbiton', prompt two for 'What to expect from your first driving lesson in Surbiton' — so the tone varies naturally across the page.

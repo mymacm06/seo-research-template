@@ -72,7 +72,16 @@ Load the skill file. Follow it exactly. Do not improvise.
 - **Goal:** Rank for "driving school London, UK" and related local queries
 
 ## SEO Already Done
-_(Fill this in as you work through the checklist)_
+
+- **JSON-LD schema on homepage** — LocalBusiness + DrivingSchool + WebSite structured data added (`priority 8/10` checklist item ticked in both Quick Wins and Technical SEO sections)
+- **Keyword-optimised URL structure** — all 15 location pages and service pages use exact-match keyword slugs e.g. `/driving-lessons-richmond`, `/automatic-driving-lessons` (`priority 8/10` Technical SEO item ticked)
+- **FAQ page published** — `/faq` exists on idrive-auto.co.uk (`priority 10/10` Content item ticked)
+- **15 dedicated location pages built** — `/driving-lessons-richmond`, `/driving-lessons-twickenham`, `/driving-lessons-hounslow`, `/driving-lessons-barnes`, `/driving-lessons-chiswick`, `/driving-lessons-kew`, `/driving-lessons-surbiton`, `/driving-lessons-teddington`, `/driving-lessons-isleworth`, `/driving-lessons-hampton`, `/driving-lessons-roehampton`, `/driving-lessons-sheen`, `/driving-lessons-whitton`, `/driving-lessons-east-molesey`, `/driving-lessons-kingston` (`priority 7/10` Content item ticked)
+- **Service category pages built** — `/automatic-driving-lessons`, `/intensive-driving-lessons`, `/pass-plus`
+- **Supporting pages built** — `/booking`, `/contact`, `/resources`, `/terms`
+- **Metadata on all pages** — title, meta description, OpenGraph, Twitter Card tags added to every page
+- **sitemap.xml and robots.txt** — both generated and live at idrive-auto.co.uk
+- **Website deployed to Vercel** — project `idrive-auto`, production deployment `dpl_C9BdTunjTzZrYcY8ZhnAhpduEwv5`, aliased to `www.idrive-auto.co.uk`
 
 ## SEO Gaps to Fix
 _(Fill this in after reviewing the generated checklist)_
