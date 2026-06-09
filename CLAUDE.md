@@ -137,3 +137,13 @@ _(Append notes here after each session. Never delete previous entries.)_
 - Ran `generate_checklist.py` — loaded 156 tips from `outputs/raw_synthesis.md`, rewrote all 8 batches as site-specific actions, generated `outputs/seo_checklist.md`
 - Committed 3 files: `CLAUDE.md`, `scripts/generate_checklist.py`, `outputs/seo_checklist.md` (commit c7dbe09)
 - `.env` not committed — keep it off GitHub
+
+### 2026-06-09
+- Image alt text: updated 5 alt attributes across Nav.tsx, Footer.tsx, PassesCarousel.tsx, PassGrid.tsx
+  - Logos: "iDrive Auto" → "iDrive Auto School of Motoring logo"
+  - Pass photos: generic numbering → "iDrive Auto student driving test pass ${n}"
+  - Committed f3fc2a5, pushed to GitHub
+- Internal links: nearbyAreas already built and rendering in LocationPage.tsx — no code needed
+  - Fixed 6 broken nearbyAreas links (Sunbury, Brentford x4, Putney → real area slugs)
+  - Committed 905ffe2, pushed to GitHub
+- Google Maps embed: already present in MapEmbed.tsx, used on homepage and all 15 location pages — no code needed
