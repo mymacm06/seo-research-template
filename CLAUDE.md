@@ -164,3 +164,12 @@ _(Append notes here after each session. Never delete previous entries.)_
   - Removed Brentford from Areas Covered list (no location page exists for it)
   - Build: 31 pages, zero errors
   - Committed dcf2cca, pushed to main
+- GBP audit completed:
+  - Business description updated — keyword-rich, 748 chars, all service areas mentioned
+  - Services expanded from 7 to 20+ including all 15 location-specific services
+  - Logo (square steering wheel PNG) and cover photo uploaded — pending verification
+  - Phone number NAP mismatch fixed — site footer updated from "07867 866 868" → "07867 866868"
+  - Brentford removed from footer Areas Covered list (no location page exists)
+  - Opening hours confirmed on GBP — added matching openingHoursSpecification to homepage JSON-LD schema
+  - GBP verification pending — video verification required (client to record tomorrow)
+  - Social profiles not yet added to GBP — need Instagram/Facebook URLs from client
