@@ -176,3 +176,5 @@ _(Append notes here after each session. Never delete previous entries.)_
 - Phone number CTA added to all 15 location pages — "Call us on 07867 866868" after bullets in Section 2
 - Areas We Cover page created at /areas-we-cover — 15 location cards, linked from footer
 - /areas-we-cover added to sitemap.ts
+- GOV.UK outbound link added to all 15 location pages — "Book your practical driving test on GOV.UK" linking to gov.uk/book-driving-test, sits between FAQ and nearby areas sections
+- Resources page already had 7 authoritative GOV.UK/DVSA outbound links — no changes needed
