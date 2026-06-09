@@ -178,3 +178,5 @@ _(Append notes here after each session. Never delete previous entries.)_
 - /areas-we-cover added to sitemap.ts
 - GOV.UK outbound link added to all 15 location pages — "Book your practical driving test on GOV.UK" linking to gov.uk/book-driving-test, sits between FAQ and nearby areas sections
 - Resources page already had 7 authoritative GOV.UK/DVSA outbound links — no changes needed
+- Google Analytics 4: already installed — measurement ID G-BS0R29LHFV, loaded via Next.js Script in layout.tsx with afterInteractive strategy (added in a previous session)
+- GA4 linked to Search Console — keyword and landing page data now available in GA4
