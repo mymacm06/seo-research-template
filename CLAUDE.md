@@ -180,3 +180,12 @@ _(Append notes here after each session. Never delete previous entries.)_
 - Resources page already had 7 authoritative GOV.UK/DVSA outbound links — no changes needed
 - Google Analytics 4: already installed — measurement ID G-BS0R29LHFV, loaded via Next.js Script in layout.tsx with afterInteractive strategy (added in a previous session)
 - GA4 linked to Search Console — keyword and landing page data now available in GA4
+- Search Console baseline metrics (3 month view, last updated 2026-06-10):
+  - Total clicks: 19
+  - Total impressions: 1,580
+  - Average CTR: 1.2%
+  - Average position: 51.6
+  - Top queries by impressions: molesey driving lessons (54), driving lessons richmond (51), driving lessons hampton (47), driving lessons twickenham (43), driving lessons surbiton (36), driving lessons hounslow (34), driving lessons hampton hill (33), driving lessons isleworth (29)
+  - Only branded queries converting to clicks — position improvements expected as site gains authority and GBP gets verified
+  - 175 total queries indexed — keyword targeting working, authority is the limiting factor
+  - Next check: week of 2026-06-17 — look for any queries moving from position 40–60 into 10–20
