@@ -159,6 +159,23 @@ _(Append notes here after each session. Never delete previous entries.)_
 - ALIAS record @ was already set to 02f8b283b5f88ba0.vercel-dns-017.com
 
 ### 2026-06-10
+- Image alt text: updated 5 alt attributes across Nav.tsx, Footer.tsx, PassesCarousel.tsx, PassGrid.tsx
+  - Logos: "iDrive Auto" → "iDrive Auto School of Motoring logo"
+  - Pass photos: generic numbering → "iDrive Auto student driving test pass ${n}"
+  - Committed f3fc2a5, pushed to GitHub
+- Internal links: nearbyAreas already built and rendering in LocationPage.tsx — no code needed
+  - Fixed 6 broken nearbyAreas links (Sunbury, Brentford x4, Putney → real area slugs)
+  - Committed 905ffe2, pushed to GitHub
+- Google Maps embed: already present in MapEmbed.tsx, used on homepage and all 15 location pages — no code needed
+- www/non-www redirect fixed in Vercel:
+  - idrive-auto.co.uk set as Production (was redirecting to www)
+  - www.idrive-auto.co.uk set to 301 redirect to idrive-auto.co.uk
+- Hostinger DNS updated to Vercel's new IP range:
+  - A record @ updated from 76.76.21.21 → 216.198.79.1
+  - CNAME www updated from cname.vercel-dns.com → 02f8b283b5f88ba0.vercel-dns-017.com
+- Search Console: 11 pages submitted for priority indexing (quota reached — 8 remaining for tomorrow)
+- Opening hours added to homepage JSON-LD schema — matches GBP exactly
+- Directory listings email drafted and sent to client covering Yell, Trustpilot, Bing Places, Apple Maps, GBP verification and social profiles
 - NAP consistency fixes in Footer.tsx:
   - Phone number display text: "07867 866 868" → "07867 866868" (matches tel: href format)
   - Removed Brentford from Areas Covered list (no location page exists for it)
