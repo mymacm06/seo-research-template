@@ -206,3 +206,11 @@ _(Append notes here after each session. Never delete previous entries.)_
   - Only branded queries converting to clicks — position improvements expected as site gains authority and GBP gets verified
   - 175 total queries indexed — keyword targeting working, authority is the limiting factor
   - Next check: week of 2026-06-17 — look for any queries moving from position 40–60 into 10–20
+
+### 2026-07-16
+- Technical SEO: added self-referencing absolute canonical URLs to every page on idrive-auto.co.uk via the Next.js metadata API (`alternates.canonical`), preventing duplicate-content ambiguity (e.g. trailing-slash / query-param variants).
+  - 26 pages covered: home, booking, contact, resources, faq, terms, areas-we-cover, 3 service pages, and all 15 location pages (location canonicals derived from slug).
+  - Verified live in rendered HTML across the site after Vercel deploy.
+- Fixed FAQ page metadata — it was inheriting the homepage title/description. Now: title "Driving Lesson FAQs | iDrive Auto" + a unique meta description. Helps `/faq` rank for its own question-based queries and improves SERP CTR.
+- Both changes are quick-win technical items aligned with the checklist's "unique meta title/description per page" and "clean canonical" guidance.
+- Work done in the website repo (github.com/mymacm06/idrive-auto), commit 4a76e4f. See website/CLAUDE.MD 2026-07-16 for file-level detail.
