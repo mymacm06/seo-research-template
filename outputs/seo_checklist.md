@@ -123,7 +123,7 @@ _Generated from YouTube transcripts by SEO research tool. Tips sorted by frequen
   Crawl idrive-auto.co.uk and map every existing page against the services listed on the iDrive Auto Google Business Profile, then identify which services (e.g., intensive courses, motorway lessons, Pass Plus) and locations (e.g., Brentford, Kew, East Molesey) have no dedicated page.
 - [ ] `priority 9/10` _(mentioned in 1 source)_  
   Audit every page on idrive-auto.co.uk to ensure each has a unique meta title (e.g., "Driving Lessons in Richmond | iDrive Auto School of Motoring"), a compelling meta description, and an H1 tag that includes the target keyword — fix any pages where these are missing or duplicated.
-- [ ] `priority 9/10` _(mentioned in 1 source)_  
+- [x] `priority 9/10` _(mentioned in 1 source)_  
   Add LocalBusiness and DrivingSchool schema markup to the idrive-auto.co.uk homepage including the London address, phone number, service areas (Richmond, Twickenham, Hounslow etc.), and opening hours, then add Service schema to each individual service page (e.g., driving lessons, intensive courses, Pass Plus).
 - [x] `priority 9/10` _(mentioned in 1 source)_  
   Add in-content (editorial) links within the body text of your idrive-auto.co.uk homepage pointing to your location pages (e.g., Richmond, Twickenham, Hounslow driving lessons pages), and within those location pages link contextually to individual service pages — don't rely solely on navigation menus or footer links.
@@ -287,7 +287,7 @@ _Generated from YouTube transcripts by SEO research tool. Tips sorted by frequen
   Rather than relying on weekly generic blog posts, prioritise building dedicated service-area pages for each of iDrive Auto's 15 locations (e.g. /driving-lessons-barnes/, /driving-lessons-isleworth/) that are directly tied to your Google Business Profile entity and include location-specific content.
 - [ ] `priority 7/10` _(mentioned in 1 source)_  
   When using AI to draft content for idrive-auto.co.uk location pages, write each H2 section with a separate prompt — for example, prompt one for 'Why choose iDrive Auto in Surbiton', prompt two for 'What to expect from your first driving lesson in Surbiton' — so the tone varies naturally across the page.
-- [ ] `priority 7/10` _(mentioned in 1 source)_  
+- [x] `priority 7/10` _(mentioned in 1 source)_  
   Add an FAQ section to every service and location page on idrive-auto.co.uk — for example, on the Twickenham page include questions like 'How much do driving lessons cost in Twickenham?', 'Which test centre would I use in Twickenham?', and 'How many lessons will I need?' — to capture People Also Ask placements in Google.
 - [ ] `priority 7/10` _(mentioned in 1 source)_  
   Before publishing any AI-generated content on idrive-auto.co.uk, run it through an AI detection tool such as Originality.ai and manually rewrite any sections scoring above 50% to ensure the content reads authentically and avoids potential Google quality penalties.
